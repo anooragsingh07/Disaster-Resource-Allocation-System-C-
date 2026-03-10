@@ -264,5 +264,5 @@ This project helps understand:
 # Author
 
 Anoorag Singh
-Computer Science Student
+
 Focus: Data Structures, Algorithms, and System Design
